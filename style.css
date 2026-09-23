@@ -1,0 +1,14 @@
+body {
+    background: #000;
+    color: #00ff66;
+    font-family: monospace;
+    padding: 20px;
+}
+
+#terminal {
+    font-size: 18px;
+}
+
+#output {
+    white-space: pre-line;
+}
